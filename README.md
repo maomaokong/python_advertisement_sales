@@ -4,7 +4,7 @@
 Data Prediction using python with libraries (Pandas; Matplotlib; Statsmodels).
 
 Simple linear regression model
->> $y = \beta_0 + \beta_1x$
+>> $$y = \beta_0 + \beta_1x$$
 
 * $$y$$ is the predicted numerical value (response) -> *sales*
 * x is the feature
@@ -37,7 +37,7 @@ Or referring **test/** folder for the result screens.
 Please make adjustment in config.json file within the **root/** directory.
 
 ## Language
-3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44)
+Python 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44)
 
 ## Libraries/Packages
 1. Pandas
