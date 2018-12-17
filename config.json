@@ -1,0 +1,16 @@
+{
+  "APP_NAME":"Advertisement_Sales",
+  "VERSION":"0.1.0",
+  "ENVIRONMENT_REMARK":"TBD",
+  "ENVIRONMENT_OPTION":"1-UAT; 9-PROD",
+  "ENVIRONMENT":1,
+  "PATHS":{
+    "SOURCE_CODE":"src",
+    "DATA":"data",
+    "LOG":"log",
+    "TEST":"test"
+  },
+  "DATA":{
+    "ADVERTISEMENT_SALES":"Advertising.csv"
+  }
+}
