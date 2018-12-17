@@ -4,7 +4,7 @@
 Data Prediction using python with libraries (Pandas; Matplotlib; Statsmodels).
 
 Simple linear regression model
->> $$y = \beta_0 + \beta_1x$$
+>> $y = \beta_0 + \beta_1x$
 
 * $$y$$ is the predicted numerical value (response) -> *sales*
 * x is the feature
